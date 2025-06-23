@@ -58,6 +58,10 @@ source venv/bin/activate    # or venv\Scripts\activate on Windows
 streamlit run app.py
 
 
+loom demo walkthrough
+
+https://www.loom.com/share/f6cbc8fcd1ef491182acd866794b0d0e?sid=ec712010-465a-4300-b0a9-e14da287d640
+
 
 👩‍💻 Author
 Built by Labanya Roy 
