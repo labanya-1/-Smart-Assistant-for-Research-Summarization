@@ -42,6 +42,24 @@ smart_assistant/
 ## ▶️ Run Locally
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/labanya-1/-Smart-Assistant-for-Research-Summarization.git
    cd -Smart-Assistant-for-Research-Summarization
+   Create and activate a virtual environment (optional but recommended):
+   
+ 2.Create and activate a virtual environment (optional but recommended):
+ python -m venv venv
+source venv/bin/activate    # or venv\Scripts\activate on Windows
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4.Run the app:
+streamlit run app.py
+
+
+
+👩‍💻 Author
+Built by Labanya Roy (Bristi)
+
+
