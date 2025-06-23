@@ -60,6 +60,6 @@ streamlit run app.py
 
 
 👩‍💻 Author
-Built by Labanya Roy (Bristi)
+Built by Labanya Roy 
 
 
