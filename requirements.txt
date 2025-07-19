@@ -3,3 +3,5 @@ PyMuPDF
 transformers
 torch
 scikit-learn
+nltk
+
