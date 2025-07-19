@@ -1,6 +1,5 @@
 streamlit
 PyMuPDF
-openai
 transformers
 torch
 scikit-learn
