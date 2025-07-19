@@ -1,7 +1,7 @@
 streamlit
 PyMuPDF
+nltk
 transformers
 torch
 scikit-learn
-nltk
-
+sentence-transformers
