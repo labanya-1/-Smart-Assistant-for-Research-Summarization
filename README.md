@@ -63,6 +63,7 @@ https://www.loom.com/share/ea871fffa88546e2a520e25ae6fd617d?sid=e0030a5e-4ad7-46
 
 
 
+
 💡 Future Possibilities
 This prototype can be extended to support:
 
@@ -71,6 +72,7 @@ Operational SOP document summarization
 Context-aware onboarding tools
 
 Knowledge assistants for facility teams, educators, or compliance analysts
+
 
 
 👩‍💻 Author
