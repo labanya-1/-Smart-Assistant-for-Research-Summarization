@@ -1,30 +1,29 @@
-# -Smart-Assistant-for-Research-Summarization
-🧠 Smart Assistant for Research Summarization An AI-powered assistant that reads PDF/TXT documents, generates auto summaries, answers context-based questions, and challenges users with logic-based questions. Built with Streamlit, Transformers, and Sentence Transformers.
+# 🧠 Smart Assistant for Research Summarization
 
+An AI-powered assistant that reads PDF/TXT documents, generates intelligent summaries, answers contextual questions, and challenges users with logic-based comprehension — all through an intuitive Streamlit interface.
 
-An AI-powered Streamlit web app that helps users **summarize research papers**, **ask document-based questions**, and **generate logical comprehension questions** with feedback. Ideal for researchers, students, and educators!
+Built with 🔥 Streamlit, 🤗 HuggingFace Transformers, and ⚙️ Sentence Transformers, this project is designed for **researchers, students, and educators** looking to extract insights quickly and interactively.
 
 ---
 
 ## 🚀 Features
 
-- 📄 **Upload PDF or TXT files**
-- ✍️ **Auto-summary** generation of uploaded research content
-- 🤖 **Ask Anything** – question-answering based on the document
-- 🎯 **Challenge Me** – logic-based question generation + evaluation
-- 💬 **Conversation history** and feedback display
-- 🧠 Powered by NLP, transformers, and language models
+- 📄 Upload and parse **PDF or TXT files**
+- ✍️ Generate **automated summaries** of lengthy research documents
+- 🤖 Ask **document-based natural language questions**
+- 🧠 "Challenge Me" mode with **logic-driven Q&A + evaluation**
+- 💬 View **conversation history** with answer confidence and justification
+- 🔍 Get **semantic feedback** using sentence-level similarity scoring
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- [Streamlit](https://streamlit.io/)
-- Python (3.8+)
-- PyMuPDF (`fitz`) – for PDF parsing
-- HuggingFace Transformers
-- scikit-learn, Torch, NumPy
-- Custom logic for Q&A and feedback
+- [Streamlit](https://streamlit.io/) – for the interactive UI
+- [HuggingFace Transformers](https://huggingface.co/) – summarization and Q&A
+- [SentenceTransformers](https://www.sbert.net/) – for semantic similarity & justification
+- PyMuPDF (`fitz`) – PDF text extraction
+- Python (3.8+), NLTK, scikit-learn, Torch, NumPy
 
 ---
 
@@ -60,7 +59,18 @@ streamlit run app.py
 
 loom demo walkthrough
 
-https://www.loom.com/share/f6cbc8fcd1ef491182acd866794b0d0e?sid=ec712010-465a-4300-b0a9-e14da287d640
+https://www.loom.com/share/ea871fffa88546e2a520e25ae6fd617d?sid=e0030a5e-4ad7-46c6-b38f-509d352f994f
+
+
+
+💡 Future Possibilities
+This prototype can be extended to support:
+
+Operational SOP document summarization
+
+Context-aware onboarding tools
+
+Knowledge assistants for facility teams, educators, or compliance analysts
 
 
 👩‍💻 Author
